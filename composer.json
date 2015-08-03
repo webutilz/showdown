@@ -1,0 +1,16 @@
+{
+	"name": "webutilz/showdown",
+	"type": "utility",
+	"description": "A Markdown to HTML converter written in Javascript",
+	"keywords": ["markdown", "md", "mdown"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Estevão Santos",
+			"homepage": "https://github.com/tivie"
+		}, {
+			"name": "Pascal Deschênes",
+			"homepage": "https://github.com/pdeschen"
+		}
+	]
+}

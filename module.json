@@ -1,0 +1,7 @@
+{
+	"name" : "webutilz/showdown",
+	"webutilz/showdown" : {
+		"js" : ["dist/showdown.js"]
+	}
+
+}

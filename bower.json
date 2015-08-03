@@ -1,5 +1,5 @@
 {
-    "name": "showdown",
+    "name": "webutilz-showdown",
     "description": "A Markdown to HTML converter written in Javascript",
     "homepage": "https://github.com/showdownjs/showdown",
     "authors": [
